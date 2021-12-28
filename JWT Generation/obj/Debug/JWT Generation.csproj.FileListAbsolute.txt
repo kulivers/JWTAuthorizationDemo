@@ -1,0 +1,37 @@
+C:\dev\c#\AuthentificationDemo\JWT Generation\bin\Debug\JWT_Generation.dll.config
+C:\dev\c#\AuthentificationDemo\JWT Generation\bin\Debug\JWT_Generation.dll
+C:\dev\c#\AuthentificationDemo\JWT Generation\bin\Debug\JWT_Generation.pdb
+C:\dev\c#\AuthentificationDemo\JWT Generation\bin\Debug\IdentityModel.dll
+C:\dev\c#\AuthentificationDemo\JWT Generation\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\dev\c#\AuthentificationDemo\JWT Generation\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\dev\c#\AuthentificationDemo\JWT Generation\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\dev\c#\AuthentificationDemo\JWT Generation\bin\Debug\System.Buffers.dll
+C:\dev\c#\AuthentificationDemo\JWT Generation\bin\Debug\System.Memory.dll
+C:\dev\c#\AuthentificationDemo\JWT Generation\bin\Debug\System.Numerics.Vectors.dll
+C:\dev\c#\AuthentificationDemo\JWT Generation\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\dev\c#\AuthentificationDemo\JWT Generation\bin\Debug\System.Text.Encodings.Web.dll
+C:\dev\c#\AuthentificationDemo\JWT Generation\bin\Debug\System.Text.Json.dll
+C:\dev\c#\AuthentificationDemo\JWT Generation\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\dev\c#\AuthentificationDemo\JWT Generation\bin\Debug\System.ValueTuple.dll
+C:\dev\c#\AuthentificationDemo\JWT Generation\bin\Debug\IdentityModel.pdb
+C:\dev\c#\AuthentificationDemo\JWT Generation\bin\Debug\IdentityModel.xml
+C:\dev\c#\AuthentificationDemo\JWT Generation\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\dev\c#\AuthentificationDemo\JWT Generation\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\dev\c#\AuthentificationDemo\JWT Generation\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\dev\c#\AuthentificationDemo\JWT Generation\bin\Debug\System.Buffers.xml
+C:\dev\c#\AuthentificationDemo\JWT Generation\bin\Debug\System.Memory.xml
+C:\dev\c#\AuthentificationDemo\JWT Generation\bin\Debug\System.Numerics.Vectors.xml
+C:\dev\c#\AuthentificationDemo\JWT Generation\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\dev\c#\AuthentificationDemo\JWT Generation\bin\Debug\System.Text.Encodings.Web.xml
+C:\dev\c#\AuthentificationDemo\JWT Generation\bin\Debug\System.Text.Json.xml
+C:\dev\c#\AuthentificationDemo\JWT Generation\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\dev\c#\AuthentificationDemo\JWT Generation\bin\Debug\System.ValueTuple.xml
+C:\dev\c#\AuthentificationDemo\JWT Generation\obj\Debug\JWT Generation.csproj.AssemblyReference.cache
+C:\dev\c#\AuthentificationDemo\JWT Generation\obj\Debug\JWT Generation.csproj.CoreCompileInputs.cache
+C:\dev\c#\AuthentificationDemo\JWT Generation\obj\Debug\JWT Generation.csproj.CopyComplete
+C:\dev\c#\AuthentificationDemo\JWT Generation\obj\Debug\JWT_Generation.dll
+C:\dev\c#\AuthentificationDemo\JWT Generation\obj\Debug\JWT_Generation.pdb
+C:\dev\c#\AuthentificationDemo\JWT Generation\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\dev\c#\AuthentificationDemo\JWT Generation\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\dev\c#\AuthentificationDemo\JWT Generation\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\dev\c#\AuthentificationDemo\JWT Generation\bin\Debug\System.IdentityModel.Tokens.Jwt.xml

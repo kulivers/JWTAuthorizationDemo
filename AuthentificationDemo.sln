@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthentificationApi", "AuthentificationApi\AuthentificationApi.csproj", "{C3163350-F1FC-4BFD-BDD3-B37B06C263FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JWT Generation", "JWT Generation\JWT Generation.csproj", "{DBAB58E9-8339-4838-989F-E398AC28A557}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3163350-F1FC-4BFD-BDD3-B37B06C263FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3163350-F1FC-4BFD-BDD3-B37B06C263FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3163350-F1FC-4BFD-BDD3-B37B06C263FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3163350-F1FC-4BFD-BDD3-B37B06C263FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBAB58E9-8339-4838-989F-E398AC28A557}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBAB58E9-8339-4838-989F-E398AC28A557}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBAB58E9-8339-4838-989F-E398AC28A557}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBAB58E9-8339-4838-989F-E398AC28A557}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
