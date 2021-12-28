@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthentificationApi", "AuthentificationApi\AuthentificationApi.csproj", "{C3163350-F1FC-4BFD-BDD3-B37B06C263FE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Auth.Api", "Auth.Api\Auth.Api.csproj", "{C3163350-F1FC-4BFD-BDD3-B37B06C263FE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JWT Generation", "JWT Generation\JWT Generation.csproj", "{DBAB58E9-8339-4838-989F-E398AC28A557}"
 EndProject

@@ -1,4 +1,4 @@
-namespace AuthentificationApi.DBModels
+namespace Auth.Api.DBModels
 {
     abstract class Product
     {

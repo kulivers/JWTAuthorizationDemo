@@ -4,13 +4,13 @@ using System.IdentityModel.Tokens.Jwt;
 using System.Linq;
 using System.Runtime.Intrinsics.Arm;
 using System.Security.Claims;
-using AuthentificationApi.Models;
+using Auth.Api.Models;
 using JWT_Generation;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Options;
 using Microsoft.IdentityModel.Tokens;
 
-namespace AuthentificationApi.Controllers
+namespace Auth.Api.Controllers
 {
     //1
     [Route("api/[controller]")]

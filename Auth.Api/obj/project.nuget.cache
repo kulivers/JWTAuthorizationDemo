@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lgdmr0qtei0uiRT014yt4uU/DQwyav1l+7YcaeFuzGoJMJiS+1QUrIbfPJL1fXYOipUgM25AlouSmzE7IlIzYw==",
+  "dgSpecHash": "Q5TtLvW2lkTEPmaDzhB852KussDFLLpR+LfCgzy40AUa4nohKFRfmKN7baq8p2t21ykiDPH/Jk8L4FOoJmn0Jw==",
   "success": true,
-  "projectFilePath": "C:\\dev\\c#\\AuthentificationDemo\\AuthentificationApi\\AuthentificationApi.csproj",
+  "projectFilePath": "C:\\dev\\c#\\AuthentificationDemo\\Auth.Api\\Auth.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alla\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Alla\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.15.0\\microsoft.identitymodel.jsonwebtokens.6.15.0.nupkg.sha512",

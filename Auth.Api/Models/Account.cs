@@ -1,6 +1,6 @@
 using System;
 
-namespace AuthentificationApi.Models
+namespace Auth.Api.Models
 {
     //2
     public class Account
